@@ -7,6 +7,7 @@ namespace Employee
 {
     class Program
     {
+        /// belajar git (tortoise git)
         static void Main(string[] args)
         {
             GeneralRepositories general = new GeneralRepositories();
